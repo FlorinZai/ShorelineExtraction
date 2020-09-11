@@ -2,6 +2,7 @@
 d3d_qp('openfile','E:\Delft3D\urd\21\trih-21.dat')
 d3d_qp('selectfield','cumulative total transport')
 d3d_qp('station','(241,1)..(247,1)  ')
+d3d_qp('allt',1)
 d3d_qp('exporttype','mat file (v6)')
 d3d_qp('exportdata','E:\postprocess\extract\21\cumulative total transport.mat')
 d3d_qp('closefile')
